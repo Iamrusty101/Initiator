@@ -1,0 +1,10 @@
+{
+  "InitiatorAwsMonitorSydney": {
+    "SitesBucketName": "initiatorawsmonitorsydney-sitesbucket6e0c1f7a-v5idtcjkcjob",
+    "MonitorFunctionName": "InitiatorAwsMonitorSydney-MonitorFunction38034501-FT9ouAEQhCig"
+  },
+  "InitiatorAwsMonitorSingapore": {
+    "SitesBucketName": "initiatorawsmonitorsingapore-sitesbucket6e0c1f7a-g7v8z6thjv1k",
+    "MonitorFunctionName": "InitiatorAwsMonitorSingapore-MonitorFunction38034501-xhVlyrD6qN7U"
+  }
+}
